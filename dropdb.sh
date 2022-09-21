@@ -1,0 +1,7 @@
+mysql -u jz034 'jz034'<<EOFMYSQL
+
+DROP TABLE Result;
+DROP TABLE Team;
+DROP TABLE Game;
+
+EOFMYSQL
