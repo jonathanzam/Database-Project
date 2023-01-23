@@ -5,7 +5,7 @@ import mysql.connector
 from tabulate import tabulate
 
 mysql_username = 'jz034'
-mysql_password= 'aePi6ohr'
+mysql_password= ''
            
 def open_database (hostname,user_name,mysql_pw,database_name):
       global conn
